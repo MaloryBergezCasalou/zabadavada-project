@@ -1,20 +1,20 @@
-# Your amazing app
+# zabadavada
 
 ## Description
-Welcome to my great app.
+Discord like
 
 ## Setup
 ```
-npm install             # To get things goind (download all neccessary packages)
+npm install             # télécharger les packages nécessaires
 ```
-* Use the `.env` file to hide any information (like API keys) from the repository
-* Add any file or folder to `.gitignore` to have it not uploaded to the repository
-* Don't forget to add `.env` in the `.gitignore` file
+* Utilisez le fichier `.env` pour masquer toutes informations du répo
+* Ajouter n'importe quelle fichier ou dossier à `.gitignore` pour qu'il sois pas téléchargé dans le répo
+* Ne pas oiblier d'ajouter `.env` dans le `.gitignore` .
 
-## Avaliable npm scripts
+## Scripts npm disponibles
 
 ```
-npm run start           # Start the node js server
-npm run dev             # Start the node js server with nodemon
-npm run build           # Start webpack (build the bundle js file)
+npm run start           # Démarrer le serveur node js
+npm run dev             # Démarrer le serveur node js avec nodemon
+npm run build           # Démarrer le webpack (créer le fichier js du bundle)
 ```
