@@ -1,8 +1,8 @@
-# Your amazing app
+# zabadavada
 
 ## Description
 
-Welcome to my great app.
+Discord-like app.
 
 ## Setup
 
@@ -15,7 +15,7 @@ npm install mongoose
 - Add any file or folder to `.gitignore` to have it not uploaded to the repository
 - Don't forget to add `.env` in the `.gitignore` file
 
-## Avaliable npm scripts
+## Scripts npm disponibles
 
 ```
 npm run start           # Start the node js server
