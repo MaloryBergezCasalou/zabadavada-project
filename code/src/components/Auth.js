@@ -10,6 +10,7 @@ class Auth extends Component {
                 <span>REGISTER</span>
                 <form>
                     <input class="input" type="text" placeholder="Email" />
+                    <input class="input" type="text" placeholder="Pseudo" />
                     <input class="input" type="password" placeholder="Password" />
                     <button className="registerButton" type="submit">CREATE ACCOUNT</button>
                 </form>
