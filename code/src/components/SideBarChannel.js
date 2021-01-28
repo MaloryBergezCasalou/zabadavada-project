@@ -5,7 +5,7 @@ class SideBarChannel extends Component {
         return <div className="sidebarChannel">
                 <h3>
                     <span className="sidebarChannelHash"># </span>
-                    chan
+                    Salon textuel
                 </h3>
                 
             </div>

@@ -17,6 +17,7 @@ function App() {
           </div>
           } />
           <Route path="/auth" exact component={() => <Auth />} />
+          <Route path="/user" exact component={() => <Users />} />
       </Switch>
     </Router>
 }

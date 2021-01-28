@@ -1,10 +1,8 @@
-import { CssBaseline } from '@material-ui/core';
 import React, { Component } from 'react';
 
 class Auth extends Component {
     render() {
         return <div className="container">
-            <CssBaseline />
             <h1>ZABADAVADA</h1>
             <div className="register">
                 <span>REGISTER</span>
