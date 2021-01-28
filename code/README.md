@@ -8,8 +8,8 @@ Discord like
 npm install             # télécharger les packages nécessaires
 ```
 * Utilisez le fichier `.env` pour masquer toutes informations du répo
-* Ajouter n'importe quelle fichier ou dossier à `.gitignore` pour qu'il sois pas téléchargé dans le répo
-* Ne pas oiblier d'ajouter `.env` dans le `.gitignore` .
+* Ajouter n'importe quel fichier ou dossier à `.gitignore` pour qu'il ne soit pas téléchargé dans le répo
+* Ne pas oublier d'ajouter `.env` dans le `.gitignore` .
 
 ## Scripts npm disponibles
 
